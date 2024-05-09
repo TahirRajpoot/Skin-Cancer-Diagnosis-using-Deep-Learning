@@ -6,7 +6,7 @@ Skin cancer, particularly melanoma, is a severe health concern globally. Early d
 
 ## Methodology
 
-The project utilizes the International Skin Imaging Collaboration (ISIC) dataset for training. Data pre-processing techniques, including normalization, resizing, and augmentation, are applied. Transfer learning with the VGG-16 architecture is employed for model training. The model is fine-tuned and tested, achieving an accuracy of 89%.
+The project utilizes the International Skin Imaging Collaboration (ISIC) 2018 dataset for training. Data pre-processing techniques, including normalization, resizing, and augmentation, are applied. Transfer learning with the VGG-16 architecture is employed for model training. The model is fine-tuned and tested, achieving an accuracy of 89%.
 
 ## Conclusion
 
